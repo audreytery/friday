@@ -4,5 +4,8 @@ import "fmt"
 
 func main() {
 	fmt.Println("hello world")
+	var church string
+	church = "ferdy"
+	fmt.Println("ferdy")
 
 }
